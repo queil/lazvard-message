@@ -9,7 +9,7 @@ jobs:
     name: Build image
     runs-on: ubuntu-latest
     env:
-      IMAGE_NAME: image
+      IMAGE_NAME: lazvard
       REGISTRY: ghcr.io/queil
     steps:
 
